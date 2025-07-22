@@ -1,1 +1,0 @@
-# Model-Decision-Tree-Prediksi-Merk-Mobil-Menggunakan-Platform-Knime-Analytics
